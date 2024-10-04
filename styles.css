@@ -11,4 +11,7 @@
 
 .spaced {
     margin-bottom: 20px;
+    
+.narrow-text {
+    width: 60%; 
 }
